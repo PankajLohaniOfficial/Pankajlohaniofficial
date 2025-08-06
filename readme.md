@@ -53,7 +53,7 @@
 
 ### 🛠️ Tools & Platforms
 ![GitHub](https://img.shields.io/badge/GitHub-%23000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-%23000?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
+![VS Code](https://img.shields.io/badge/VS%20Code-%23000?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
 ![Jupyter](https://img.shields.io/badge/Jupyter-%23000?style=for-the-badge&logo=jupyter&logoColor=F37626)
 ![Figma](https://img.shields.io/badge/Figma-%23000?style=for-the-badge&logo=figma&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-%23000?style=for-the-badge&logo=vite&logoColor=646CFF)
