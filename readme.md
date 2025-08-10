@@ -93,4 +93,4 @@
 <div align="center"> <strong>✨ Let's build something amazing with code! ✨</strong> </div>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/https://buymeacoffee.com/pankajloha6"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/pankajloha6" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/https://buymeacoffee.com/pankajloha6"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee.com/pankajloha6" /></a></p><br><br>
