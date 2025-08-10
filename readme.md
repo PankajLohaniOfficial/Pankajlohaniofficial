@@ -13,6 +13,14 @@
   />
 </p>
 
+# Social Platforms:
+<p align="left">
+<a href="https://instagram.com/https://www.instagram.com/pankajlohani_2020/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/pankajlohani_2020/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/pankajlohani2016" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pankajlohani2016" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/https://codeforces.com/profile/pankajlohaniofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/pankajlohaniofficial" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/u/pankaj_lohani3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/pankaj_lohani3/" height="30" width="40" /></a>
+</p>
+
 ## 🧑‍💻 About Me
 ```diff
 + Full Stack Developer | Data Science Enthusiast | Machine Learning Explorer
@@ -62,25 +70,19 @@
 ---
 
 ## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pankajlohani&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pankajlohani&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pankajlohaniofficial&show_icons=true&theme=dark&title_color=ffd700&text_color=eaeaea&bg_color=0d1117&hide_border=true&locale=en" alt="pankajlohaniofficial" /></p>
 
 
 ---
 
-## 👁️‍🗨️ Visitor Counter
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pankajlohani&style=flat-square&color=00FFFF" alt="visitor counter"/>
-</p>
+## 👁️‍🗨️ Top Languages
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pankajlohaniofficial&show_icons=true&theme=dark&title_color=d7d700&text_color=eaeaea&bg_color=0d1117&hide_border=true&locale=en&layout=compact" alt="pankajlohaniofficial" /></p>
 
 ---
 
-## 🧠 Catchy Quote of the Day
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?bgColor=black&textColor=neon&hideBorder" alt="Joke" />
-</p>
+## Streak Status
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pankajlohaniofficial&theme=dark" alt="pankajlohaniofficial" /></p>
+
 
 ---
 
@@ -89,3 +91,6 @@
 💼 LinkedIn: [Pankaj Lohani](https://www.linkedin.com/in/pankaj-lohani-3454aa247/)
 
 <div align="center"> <strong>✨ Let's build something amazing with code! ✨</strong> </div>
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/https://buymeacoffee.com/pankajloha6"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/pankajloha6" /></a></p><br><br>
