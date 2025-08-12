@@ -74,7 +74,8 @@
 ---
 
 ## Streak Status
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pankajlohaniofficial&theme=dark" alt="pankajlohaniofficial" /></p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=USERNAME)
+
 
 
 ---
