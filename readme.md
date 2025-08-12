@@ -73,13 +73,6 @@
 
 ---
 
-## Streak Status
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pankajlohaniofficial)
-
-
-
----
-
 ## 📬 Contact Me
 📧 Email: Pankajlohanioff@gmail.com  
 💼 LinkedIn: [Pankaj Lohani](https://www.linkedin.com/in/pankaj-lohani-3454aa247/)
