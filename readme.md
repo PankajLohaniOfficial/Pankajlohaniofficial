@@ -74,7 +74,7 @@
 ---
 
 ## Streak Status
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=USERNAME)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pankajlohaniofficial)
 
 
 
