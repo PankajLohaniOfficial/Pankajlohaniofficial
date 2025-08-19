@@ -13,10 +13,18 @@
 
 # Social Platforms:
 <p align="left">
-<a href="https://www.instagram.com/pankajlohani_2020/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/pankajlohani_2020/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/pankajlohani2016" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pankajlohani2016" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/pankajlohaniofficial" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/pankajlohaniofficial" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/Pankaj_Lohani3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/pankajlohaniofficial/" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/pankajlohani_2020/" target="_blank" rel="noopener noreferrer">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="35" width="45" />
+  </a>
+  <a href="https://www.hackerrank.com/pankajlohani2016" target="_blank" rel="noopener noreferrer">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="35" width="45" />
+  </a>
+  <a href="https://codeforces.com/profile/pankajlohaniofficial" target="_blank" rel="noopener noreferrer">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="35" width="45" />
+  </a>
+  <a href="https://leetcode.com/u/Pankaj_Lohani3/" target="_blank" rel="noopener noreferrer">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="35" width="45" />
+  </a>
 </p>
 
 ---
