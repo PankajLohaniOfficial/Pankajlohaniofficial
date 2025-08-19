@@ -62,16 +62,20 @@
 
 ---
 
-## 📈 GitHub Stats
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pankajlohaniofficial&show_icons=true&theme=dark&title_color=ffd700&text_color=eaeaea&bg_color=0d1117&hide_border=true&locale=en" alt="pankajlohaniofficial" /></p>
+# 📊 GitHub Stats
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PankajLohaniOfficial&show_icons=true&theme=radical)
+
+# 🔥 Current Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=PankajLohaniOfficial&theme=radical&fire=FF0000&ring=FF0000&currStreakLabel=FF0000&sideNums=FF6347&currStreakNum=FF4500)
+
+# 🚀 Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PankajLohaniOfficial&layout=compact&theme=radical)
 
 ---
 
-## 👁️‍🗨️ Top Languages
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pankajlohaniofficial&show_icons=true&theme=dark&title_color=d7d700&text_color=eaeaea&bg_color=0d1117&hide_border=true&locale=en&layout=compact" alt="pankajlohaniofficial" /></p>
-
----
 
 ## 📬 Contact Me
 📧 Email: Pankajlohanioff@gmail.com  
