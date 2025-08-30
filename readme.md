@@ -1,5 +1,6 @@
+<!-- Title with Animated Wave -->
 <h1 align="center">
-  Hi, I'm Pankaj Lohani <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
+  Hey there, I'm <span style="color:#00FFFF;">Pankaj Lohani</span> 👋
 </h1>
 
 <p align="center">
@@ -11,87 +12,115 @@
 
 ---
 
-## 🌐 Social Platforms  
+## 🌐 Connect With Me  
+<p align="center" style="display:flex; gap:20px; justify-content:center; flex-wrap:wrap;">
 
-<p align="center">
+  <!-- Instagram -->
   <a href="https://www.instagram.com/pankajlohani_2020/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://skillicons.dev/icons?i=instagram" height="45" style="border-radius:12px; transition:transform 0.3s, box-shadow 0.3s;" onmouseover="this.style.transform='scale(1.2)'; this.style.boxShadow='0 0 18px #E1306C';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';"/>
   </a>
+
+  <!-- HackerRank -->
   <a href="https://www.hackerrank.com/pankajlohani2016" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+    <img src="https://skillicons.dev/icons?i=hackerrank" height="45" style="border-radius:12px; transition:transform 0.3s, box-shadow 0.3s;" onmouseover="this.style.transform='scale(1.2)'; this.style.boxShadow='0 0 18px #2EC866';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';"/>
   </a>
+
+  <!-- Codeforces -->
   <a href="https://codeforces.com/profile/pankajlohaniofficial" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" height="45" style="border-radius:12px; transition:transform 0.3s, box-shadow 0.3s;" onmouseover="this.style.transform='rotate(10deg) scale(1.2)'; this.style.boxShadow='0 0 18px #ff9800';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';"/>
   </a>
+
+  <!-- LeetCode -->
   <a href="https://leetcode.com/u/Pankaj_Lohani3/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+    <img src="https://skillicons.dev/icons?i=leetcode" height="45" style="border-radius:12px; transition:transform 0.3s, box-shadow 0.3s;" onmouseover="this.style.transform='scale(1.2)'; this.style.boxShadow='0 0 18px #FFA116';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';"/>
   </a>
+
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/pankaj-lohani-3454aa247/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45" style="border-radius:12px; transition:transform 0.3s, box-shadow 0.3s;" onmouseover="this.style.transform='scale(1.2)'; this.style.boxShadow='0 0 18px #0A66C2';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';"/>
   </a>
+
 </p>
 
----
+--- 
 
 ## 🧑‍💻 About Me  
-
-- 🚀 Full Stack Developer | Data Science Enthusiast | ML Explorer  
-- 🎯 Turning complex problems into simple solutions with clean code  
-- 🌱 Currently diving deeper into **React** & **Deep Learning**  
-- 💬 Open to collaborations in **Web Dev, Python, and AI projects**  
-- ⚡ Fun fact: I love creating projects that merge **tech + creativity**  
+🎯 Full Stack Developer | Data Science Enthusiast | ML Explorer  
+🌱 Learning **React** & **Deep Learning**  
+💡 Passionate about **building tech + creativity projects**  
+🤝 Open to collaborations in **Web Dev, Python & AI**  
+⚡ Fun fact: I believe coffee ☕ + code 💻 = happiness  
 
 ---
+## 🚀 Tech Arsenal  
 
-## 🚀 Tech Stack  
-
-### 💻 Frontend  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)  
+### 🎨 Frontend  
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
+</p>  
 
 ### ⚙️ Backend & Database  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+</p>  
 
-### 📊 Data Science & Machine Learning  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  
-
-### 🧪 Testing Tools  
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
-
+### 📊 Data Science & ML  
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+</p>  
 
 ### 🛠 Tools & Platforms  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)  
+<p align="left">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white">
+</p>  
 
-
+### 🧪 Testing Tools  
+<p align="left">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+</p>  
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Analytics  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PankajLohaniOfficial&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=1F6FEB&text_color=C9D1D9" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PankajLohaniOfficial&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=C9D1D9" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=PankajLohaniOfficial&show_icons=true&theme=tokyonight&hide_border=true" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PankajLohaniOfficial&layout=compact&theme=tokyonight&hide_border=true" height="180px"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=PankajLohaniOfficial&theme=tokyonight-duo&hide_border=true&background=0D1117&fire=FF6F91&ring=00FFFF&currStreakLabel=00FFFF&sideNums=FFD700&currStreakNum=FF4500" height="180px"/>
+  <img src="https://streak-stats.demolab.com?user=PankajLohaniOfficial&theme=tokyonight-duo&hide_border=true" height="180px"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PankajLohaniOfficial&theme=tokyo-night&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PankajLohaniOfficial&theme=tokyo-night&area=true&hide_border=true"/>
 </p>
 
 ---
 
 ## 📬 Contact Me  
-
-- 📧 **Email**: [Pankajlohanioff@gmail.com](mailto:Pankajlohanioff@gmail.com)  
-- 💼 **LinkedIn**: [Pankaj Lohani](https://www.linkedin.com/in/pankaj-lohani-3454aa247/)  
+📧 **Email**: [Pankajlohanioff@gmail.com](mailto:Pankajlohanioff@gmail.com)  
+💼 **LinkedIn**: [Pankaj Lohani](https://www.linkedin.com/in/pankaj-lohani-3454aa247/)  
 
 ---
 
 <div align="center">
-
-✨ *Let's build something impactful together with code!* ✨  
+  
+✨ *"Code + Creativity = Impact"* ✨  
 
 </div>
 
@@ -103,5 +132,3 @@
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="190" alt="Buy Me a Coffee"/>
   </a>
 </p>
-
----
