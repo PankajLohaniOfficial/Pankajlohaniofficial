@@ -110,6 +110,9 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=PankajLohaniOfficial&theme=tokyo-night&area=true&hide_border=true"/>
 </p>
 
+- **Visitors Counter:**  
+  ![Visitor Count](https://komarev.com/ghpvc/?username=Pankajlohaniofficial&label=Profile+Views&color=brightgreen) 
+
 ---
 
 ## 📬 Contact Me  
