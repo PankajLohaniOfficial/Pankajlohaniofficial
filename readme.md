@@ -20,10 +20,14 @@
     <img src="https://skillicons.dev/icons?i=instagram" height="45" style="border-radius:12px; transition:transform 0.3s, box-shadow 0.3s;" onmouseover="this.style.transform='scale(1.2)'; this.style.boxShadow='0 0 18px #E1306C';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';"/>
   </a>
 
-  <!-- HackerRank -->
-  <a href="https://www.hackerrank.com/pankajlohani2016" target="_blank">
-    <img src="https://skillicons.dev/icons?i=hackerrank" height="45" style="border-radius:12px; transition:transform 0.3s, box-shadow 0.3s;" onmouseover="this.style.transform='scale(1.2)'; this.style.boxShadow='0 0 18px #2EC866';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';"/>
-  </a>
+ <!-- HackerRank -->
+<a href="https://www.hackerrank.com/pankajlohani2016" target="_blank">
+  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png" 
+       height="45" style="border-radius:12px; transition:transform 0.3s, box-shadow 0.3s;" 
+       onmouseover="this.style.transform='scale(1.2)'; this.style.boxShadow='0 0 18px #2EC866';" 
+       onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';"/>
+</a>
+
 
   <!-- Codeforces -->
   <a href="https://codeforces.com/profile/pankajlohaniofficial" target="_blank">
@@ -31,9 +35,12 @@
   </a>
 
   <!-- LeetCode -->
-  <a href="https://leetcode.com/u/Pankaj_Lohani3/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=leetcode" height="45" style="border-radius:12px; transition:transform 0.3s, box-shadow 0.3s;" onmouseover="this.style.transform='scale(1.2)'; this.style.boxShadow='0 0 18px #FFA116';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';"/>
-  </a>
+<a href="https://leetcode.com/u/pankajlohaniofficial/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" 
+       height="45" style="border-radius:12px; transition:transform 0.3s, box-shadow 0.3s;" 
+       onmouseover="this.style.transform='scale(1.2)'; this.style.boxShadow='0 0 18px #FFA116';" 
+       onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';"/>
+</a>
 
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/pankaj-lohani-3454aa247/" target="_blank">
