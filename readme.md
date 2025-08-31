@@ -113,7 +113,13 @@
 - **Visitors Counter:**  
   ![Visitor Count](https://komarev.com/ghpvc/?username=Pankajlohaniofficial&label=Profile+Views&color=brightgreen) 
 
+**Skill Graph (pie chart style):**  
+  ![Skill Graph](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pankajlohaniofficial&theme=tokyonight)  
+  ![Commit Graph](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pankajlohaniofficial&theme=tokyonight)  
+
+
 ---
+
 
 ## 📬 Contact Me  
 📧 **Email**: [Pankajlohanioff@gmail.com](mailto:Pankajlohanioff@gmail.com)  
