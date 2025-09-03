@@ -10,6 +10,10 @@
   />
 </p>
 
+<p align="center" style="margin-top: -20px; margin-bottom: -20px;">
+    <img src="banner.png" alt="Leo Cartoon Banner" width="100%" />
+  </p>
+
 ---
 
 ## 🌐 Connect With Me  
