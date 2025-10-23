@@ -133,8 +133,6 @@
 
 **Skill Graph (pie chart style):**  
   ![Skill Graph](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pankajlohaniofficial&theme=tokyonight)  
-
-  ]]
 ---
 
 
