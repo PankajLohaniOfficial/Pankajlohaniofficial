@@ -121,12 +121,18 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=PankajLohaniOfficial&theme=tokyo-night&area=true&hide_border=true"/>
 </p>
 
+## 🧮 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/PankajLohani_3?theme=dark&font=Baloo+2&ext=heatmap" alt="LeetCode Stats Card" />
+</p>
+
+
 - **Visitors Counter:**  
   ![Visitor Count](https://komarev.com/ghpvc/?username=Pankajlohaniofficial&label=Profile+Views&color=brightgreen) 
 
 **Skill Graph (pie chart style):**  
   ![Skill Graph](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pankajlohaniofficial&theme=tokyonight)  
-  ![Commit Graph](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pankajlohaniofficial&theme=tokyonight)  
 
   ]]
 ---
